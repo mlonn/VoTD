@@ -106,11 +106,11 @@ html, body, #root {
 }
 
 .candidate.active {
-    background: #af4185;
+    background: #7c0e52;
 }
 
 .candidate.active:hover {
-    background: #96286C;
+    background: #630039;
 }
 
 .candidate {
@@ -131,7 +131,7 @@ html, body, #root {
     -ms-user-select: none;
 }
 .candidate:hover {
-     background: #2980b9;
+     background: #570126;
 }
 
 .candidate.disabled {
@@ -166,7 +166,7 @@ html, body, #root {
 }
 
 .button:hover {
-    background: #00838F;
+    background: #610411;
 }
 .button.red:hover {
     background: #C62828;
@@ -299,7 +299,7 @@ h1 {
     margin: 0.5em;
     background: #fff;
     color: #000;
-    border: 4px solid #5cadc5;
+    border: 4px solid #943744;
     border-top: 0;
 }
 
