@@ -89,7 +89,7 @@ html, body, #root {
 
 .candidate .status {
     padding-left: 0.5em;
-    color: #fff;
+    color: #949494;
     justify-content: center;
 
     flex: 1 1 1em;
@@ -106,11 +106,11 @@ html, body, #root {
 }
 
 .candidate.active {
-    background: #43a047;
+    background: #af4185;
 }
 
 .candidate.active:hover {
-    background: #388E3C;
+    background: #96286C;
 }
 
 .candidate {
@@ -121,7 +121,7 @@ html, body, #root {
     font-size: 1.5em;
     margin: 0.5em;
     cursor: pointer;
-    background: #3498db;
+    background: #701a3f;
     box-shadow: 2px 2px 3px #888;
 
     transition: background 0.2s ease-out;
@@ -151,7 +151,7 @@ html, body, #root {
 .button {
     padding: 0.2em;
     color: #fff;
-    background: #0097A7;
+    background: #7a1d2a;
     text-align: center;
     box-shadow: 2px 2px 3px #888;
     cursor: pointer;
@@ -249,8 +249,8 @@ html, body, #root {
 
 body {
     font-family: Roboto, sans-serif;
-    background: #ecf0f1;
-    color: #2c3e50;
+    background: #e6e6e6;
+    color: #363636;
 }
 
 .dist {
@@ -258,7 +258,7 @@ body {
 }
 
 h1 {
-    color: #2c3e50;
+    color: #363636;
 }
 
 .danger {
@@ -266,7 +266,7 @@ h1 {
 }
 
 .success {
-    color: #4CAF50;
+    color: #701a3f;
 }
 
 .errors {
@@ -283,7 +283,7 @@ h1 {
 }
 
 .vote-summary .header {
-    background: #5cadc5;
+    background: #943744;
     padding: 0 1em;
 }
 
