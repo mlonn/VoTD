@@ -106,11 +106,11 @@ html, body, #root {
 }
 
 .candidate.active {
-    background: #7c0e52;
+    background: #52791C;
 }
 
 .candidate.active:hover {
-    background: #630039;
+    background: #306003;
 }
 
 .candidate {
@@ -173,7 +173,7 @@ html, body, #root {
 }
 
 .button:active {
-    background: #006064;
+    background: #480000;
     box-shadow: 0 0 3px #888;
 }
 
@@ -229,8 +229,8 @@ html, body, #root {
     font-size: 2em;
     margin: 1em;
     padding: 1em;
-    background: #4CAF50;
-    color: #fff;
+    background: #ecf0f1;
+    color: #e6e6e6;
     flex-basis: 300px;
 }
 
